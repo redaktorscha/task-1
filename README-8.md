@@ -6,6 +6,6 @@
 * Как делать merge 
 * Как залить работу в удаленный репозиторий [GitHub](http://github.com)
 
-[Вперед](README-9)
+[Вперед](README-9.md)
 
-[Назад](README-7)
+[Назад](README-7.md)

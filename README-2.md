@@ -8,6 +8,6 @@
 * DevOps
 * Архитектура
 
-[Вперед](README-3)
+[Вперед](README-3.md)
 
-[Назад](README)
+[Назад](README.md)
